@@ -31,7 +31,15 @@ $(document).ready(function() {
                     <span class="badge badge-dark">Public Reops: ${response.public_repos}</span>
                     <span class="badge badge-primary">Public Gists: ${response.public_gists}</span>
                     <span class="badge badge-success">Followers: ${response.followers}</span>
-                    <span class="badge badge-info">Following: ${response.following}</span>            
+                    <span class="badge badge-info">Following: ${response.following}</span>  
+                    <br><br>
+                    <ul class="list-group">
+                        <li class="list-group-item">Company: ${response.company}</li>
+                        <li class="list-group-item">Blog: ${response.blog}</li>
+                        <li class="list-group-item">Location: ${response.location}</li>
+                        <li class="list-group-item">Email_id: ${response.email}</li>
+                        <li class="list-group-item">Member Since: ${response.created_at}</li>
+                    </ul>
                 </div>
             </div>
         </div>
