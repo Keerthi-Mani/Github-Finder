@@ -28,7 +28,10 @@ $(document).ready(function() {
                     <a target="_blank" class="btn btn-danger btn-block" href="${response.html_url}">View Profile</a>
                 </div>
                 <div class="col-md-9">
-
+                    <span class="badge badge-dark">Public Reops: ${response.public_repos}</span>
+                    <span class="badge badge-primary">Public Gists: ${response.public_gists}</span>
+                    <span class="badge badge-success">Followers: ${response.followers}</span>
+                    <span class="badge badge-info">Following: ${response.following}</span>            
                 </div>
             </div>
         </div>
