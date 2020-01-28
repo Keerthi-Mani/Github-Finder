@@ -14,6 +14,23 @@ $(document).ready(function() {
       }
     }).done(function(response) {
       //   console.log(response);
+      $("#profile").html(`
+      <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title">${response.name}</h3>
+        </div>
+        <div class="panel-body"> 
+            <div class="row">
+                <div class="col-md-3">
+                    <img class="thumbnail" src="${response.avatar_url}">
+                </div>
+                <div class="col-md-9">
+
+                </div>
+            </div>
+        </div>
+      </div>
+        `);
     });
   });
 });
