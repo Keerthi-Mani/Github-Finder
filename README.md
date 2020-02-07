@@ -1,6 +1,6 @@
 # Github-Finder
 
-### Overview
+### Getting Started
 
 We will build a JavaScript/jQuery application that fetches and displays Github user profile info and repositories using Ajax. We will work with functions, events, loops, the \$.ajax method and more.
 
