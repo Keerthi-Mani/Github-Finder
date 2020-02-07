@@ -16,6 +16,12 @@ We will build a JavaScript/jQuery application that fetches and displays Github u
 
 ### Make request to Github
 
+#### Request Method
+
+GET
+
+#### Usage
+
 ```
     $.ajax({
       url: "https://api.github.com/users/" + userName,
