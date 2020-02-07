@@ -43,3 +43,9 @@ Author - Keerthi
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
+## Acknowledgement
+
+- Joe Han, Joshua Appel, Erin Rizal, & Jonathan Ho - Rutgers BCS Instructor and TA's
+
+- All of the Rutgers BCS Classmates that help make everyday an amazing experience.
