@@ -28,3 +28,7 @@ I really appreciate your feedback. If you want to see some improvements in the a
 Additionally, if you find any issue when running the app or any other other matter, please feel free to open an issue in this Github repo.
 
 Author - Keerthi
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
