@@ -28,6 +28,10 @@ We will build a JavaScript/jQuery application that fetches and displays Github u
 
 ```
 
+### GitHub Deployment
+
+[Check the link](https://keerthi-mani.github.io/Github-Finder/)
+
 ### Feedback and issues:
 
 I really appreciate your feedback. If you want to see some improvements in the app I'll be really grateful if you can drop me a message.
